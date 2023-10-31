@@ -1,10 +1,12 @@
-Git comes with built-in GUI tools (git-gui, gitk), but there are several third-party tools for users looking for a platform-specific experience.
+En la era digital actual, la automatización se ha convertido en un componente esencial para mejorar la eficiencia y calidad en el desarrollo de software. Para satisfacer esta creciente demanda, te damos la bienvenida a nuestro emocionante "Curso de Automatización Frontend y Backend con Java." Este programa está diseñado para capacitar a profesionales y entusiastas del desarrollo de software en las complejas disciplinas de automatización tanto en el lado del frontend como en el backend, utilizando el poderoso lenguaje de programación Java.
+Detalles del Curso:
 
-Various Git logos in PNG (bitmap) and EPS (vector) formats are available for use in online and print projects.
+- Días: Martes y Jueves
+- Horarios: 14:00 a 16:00 horas
+- Plataforma: Zoom
+- Link Zoom: https://us02web.zoom.us/j/86976247961?pwd=UWVsaDM1ZS9TWVRRNDVmUG1nT3ZPdz09
+- Canal Slack: https://join.slack.com/t/slack-mgv1724/shared_invite/zt-25grdvq52-9jiNgwScpvJmDfeeNgExDw 
 
-Git via Git
-If you already have Git installed, you can get the latest development version via Git itself:
+Prepárense para sumergirse en el apasionante mundo de automation y no duden en participar activamente en las discusiones y actividades que se llevarán a cabo.
 
-git clone https://github.com/git/git
-You can also always browse the current contents of the git repository using the web interface.
-
+¡Bienvenidos nuevamente y nos vemos en nuestra primera sesión! 
